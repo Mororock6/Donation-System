@@ -53,38 +53,6 @@ It allows users to register or sign in with a username and password, and include
 - **Forgot Password**: Recover your password if you forget it.
 - **Donate**: Choose a donation type and provide the required details.
 
-## File Structure
-DonationSystem/
-│
-├── src/
-│ ├── BookType.java
-│ ├── Books.java
-│ ├── ClotheSize.java
-│ ├── ClotheType.java
-│ ├── Clothes.java
-│ ├── Doctor.java
-│ ├── Donation.java
-│ ├── DonationsLists.java
-│ ├── Donor.java
-│ ├── Education.java
-│ ├── Food.java
-│ ├── FoodType.java
-│ ├── HealthCare.java
-│ ├── Hunger.java
-│ ├── Main.java
-│ ├── Medicine.java
-│ ├── MedicineType.java
-│ ├── Poverty.java
-│ ├── Teacher.java
-│ ├── TeachingStages.java
-│ └── WayOfDonation.java
-│
-├── bin/ (compiled classes)
-│
-├── .classpath
-├── .project
-└── .settings/
-
 ## Contributors
 
 - Amer Ashoush
