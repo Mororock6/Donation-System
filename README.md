@@ -1,6 +1,8 @@
 # Donation-System
 
-This project was developed as part of our Object-Oriented Programming (OOP) course. It allows users to register or sign in with a username and password, and includes a mechanism for password recovery. The system supports various types of donations and ensures data handling and error management using files.
+This project was developed as part of our Object-Oriented Programming (OOP) course in Java to manage donations and distribute resources effectively.
+Designed as a simple system to donate and assist underprivileged individuals by providing essential resources such as food, educational books, clothing, medications, and financial aid.
+It allows users to register or sign in with a username and password, and includes a mechanism for password recovery. The system supports various types of donations and ensures data handling and error management using files.
 
 ## Features
 
