@@ -24,6 +24,10 @@ It allows users to register or sign in with a username and password, and include
   - All data is saved using files.
   - Errors are managed and logged using files to ensure the system runs smoothly.
 
+- **Donation Summary and Additional Donations**:
+  - At the end of the donation process, a list of all donated items is displayed.
+  - Users have the option to donate for another specific type of donation or donate again to the same category they just contributed to.
+    
 ## Installation
 
 1. Clone the repository:
@@ -52,6 +56,8 @@ It allows users to register or sign in with a username and password, and include
 - **Login**: Sign in with your existing account.
 - **Forgot Password**: Recover your password if you forget it.
 - **Donate**: Choose a donation type and provide the required details.
+- **Summary**: View a summary of all donations made.
+- **Additional Donations**: Choose to donate again to a different category or the same one.
 
 ## Contributors
 
